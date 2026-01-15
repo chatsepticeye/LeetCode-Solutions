@@ -11,7 +11,7 @@ class Solution {
             int nextend=interval[1];
             if(currentend>=nextstart){
                 current[1]=Math.max(currentend,nextend);
-        }
+               }
             else{
                 current=interval;
                 result.add(current);
