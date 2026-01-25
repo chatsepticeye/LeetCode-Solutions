@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0724-find-pivot-index](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
