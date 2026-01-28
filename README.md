@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0136-single-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
