@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2413-smallest-even-multiple](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
