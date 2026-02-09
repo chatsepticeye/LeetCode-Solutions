@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Brainteaser
 |  |
 | ------- |
