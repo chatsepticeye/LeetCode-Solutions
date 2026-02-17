@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0775-global-and-local-inversions](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0775-global-and-local-inversions) |
 | [0867-transpose-matrix](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0775-global-and-local-inversions](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0775-global-and-local-inversions) |
 | [1512-number-of-good-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2413-smallest-even-multiple](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
