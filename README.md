@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,4 +233,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
