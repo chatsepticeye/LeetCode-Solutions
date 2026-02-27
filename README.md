@@ -237,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
