@@ -1,30 +1,33 @@
 class Solution {
     public String minWindow(String s, String t) {
-        String ans="";
-        int[] targetMap = new int[128];
-        for (char c : t.toCharArray()) targetMap[c]++;
-        if(s.length()<t.length()) return "";
-        int minlow=0;
+        int hash[]=new int[128];
+        for (int i=0;i<t.length();i++) hash[t.charAt(i)]++;
         int low=0;
-        int minlen=Integer.MAX_VALUE;
-        int count=t.length();
+        int c=t.length();
+        int minLen = Integer.MAX_VALUE;
+        int minStart = 0;
         for(int high=0;high<s.length();high++){
-            char chigh=s.charAt(high);
-            if(targetMap[chigh]>0) count--;
-            targetMap[chigh]--;
-            while(count==0){
-                if(high-low+1<minlen){
-                    minlen=high-low+1;
-                    minlow=low;
+            char h=s.charAt(high);
+            if(hash[h]>0) c--;
+            hash[h]--;
+            while(c==0){
+                if (high - low + 1 < minLen) {
+                    minLen = high - low + 1;
+                    minStart = low;
                 }
-                char clow=s.charAt(low);
-                targetMap[clow]++;
-                if(targetMap[clow]>0) count++;
+                char cl=s.charAt(low);
+                hash[cl]++;
+                if(hash[cl]>0) c++;
                 low++;
+
             }
-            
-            
+
+
+        }
+        if (minLen == Integer.MAX_VALUE) {
+            return "";
+        } else {
+            return s.substring(minStart, minStart + minLen);
+        }
     }
-      return minlen==Integer.MAX_VALUE? "":s.substring(minlow,minlow+minlen);
-}
 }
