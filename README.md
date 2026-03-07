@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1480-running-sum-of-1d-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0775-global-and-local-inversions](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0775-global-and-local-inversions) |
 | [1017-convert-to-base-2](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1017-convert-to-base-2) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1873-calculate-special-bonus) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
