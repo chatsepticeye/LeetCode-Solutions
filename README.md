@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1795-rearrange-products-table](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1873-calculate-special-bonus) |
 ## Geometry
 |  |
