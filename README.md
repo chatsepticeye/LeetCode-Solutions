@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
