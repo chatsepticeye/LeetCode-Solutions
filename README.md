@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0607-sales-person) |
 | [1148-article-views-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
