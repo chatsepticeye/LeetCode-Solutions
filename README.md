@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0607-sales-person) |
 | [1148-article-views-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1148-article-views-i) |
