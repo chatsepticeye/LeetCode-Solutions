@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0775-global-and-local-inversions](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0775-global-and-local-inversions) |
+| [0833-find-and-replace-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0867-transpose-matrix](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0833-find-and-replace-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0881-boats-to-save-people](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1051-height-checker) |
 ## Greedy
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0833-find-and-replace-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0904-fruit-into-baskets](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0833-find-and-replace-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
