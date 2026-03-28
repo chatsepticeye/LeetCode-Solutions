@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0775-global-and-local-inversions) |
 | [0788-rotated-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1017-convert-to-base-2](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1017-convert-to-base-2) |
+| [1154-day-of-the-year](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1512-number-of-good-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0833-find-and-replace-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
