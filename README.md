@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1017-convert-to-base-2](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1017-convert-to-base-2) |
 | [1154-day-of-the-year](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
+| [1175-prime-arrangements](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1175-prime-arrangements) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
