@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1175-prime-arrangements](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1185-day-of-the-week) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1646-get-maximum-in-generated-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
