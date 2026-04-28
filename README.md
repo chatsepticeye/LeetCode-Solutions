@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Sliding Window
