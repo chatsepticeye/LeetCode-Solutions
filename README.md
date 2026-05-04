@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2549-count-distinct-numbers-on-board](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2582-pass-the-pillow](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [2591-distribute-money-to-maximum-children](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2651-calculate-delayed-arrival-time](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2582-pass-the-pillow](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
