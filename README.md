@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2591-distribute-money-to-maximum-children](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
 ## Hash Table
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2582-pass-the-pillow](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [2591-distribute-money-to-maximum-children](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2651-calculate-delayed-arrival-time](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
