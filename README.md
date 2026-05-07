@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2591-distribute-money-to-maximum-children](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2582-pass-the-pillow](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [2591-distribute-money-to-maximum-children](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
