@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2614-prime-in-diagonal](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
+| [2652-sum-multiples](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
