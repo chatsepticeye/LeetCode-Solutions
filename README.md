@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3516-find-closest-person](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3516-find-closest-person) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3697-compute-decimal-representation](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3697-compute-decimal-representation) |
