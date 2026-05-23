@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2739-total-distance-traveled](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2739-total-distance-traveled) |
 | [2769-find-the-maximum-achievable-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2582-pass-the-pillow](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
+| [2739-total-distance-traveled](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2739-total-distance-traveled) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3360-stone-removal-game](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
