@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3516-find-closest-person](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3516-find-closest-person) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Bit Manipulation
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3360-stone-removal-game](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -452,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
