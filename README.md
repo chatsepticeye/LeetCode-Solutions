@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2614-prime-in-diagonal](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
+| [2748-number-of-beautiful-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2748-number-of-beautiful-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2739-total-distance-traveled](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2739-total-distance-traveled) |
+| [2748-number-of-beautiful-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [2748-number-of-beautiful-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Simulation
 |  |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
+| [2748-number-of-beautiful-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
