@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3697-compute-decimal-representation](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3516-find-closest-person) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3697-compute-decimal-representation](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3697-compute-decimal-representation) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2748-number-of-beautiful-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
 | ------- |
