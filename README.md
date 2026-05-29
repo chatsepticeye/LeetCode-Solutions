@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0881-boats-to-save-people](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2591-distribute-money-to-maximum-children](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
+| [1903-largest-odd-number-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1903-largest-odd-number-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
