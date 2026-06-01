@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Union-Find
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3894-traffic-signal-color](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3360-stone-removal-game](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3894-traffic-signal-color](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
