@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3945-digit-frequency-score](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Union-Find
 |  |
 | ------- |
