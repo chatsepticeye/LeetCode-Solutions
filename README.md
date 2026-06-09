@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3516-find-closest-person) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
