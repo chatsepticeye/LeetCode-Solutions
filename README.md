@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2578-split-with-minimum-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2578-split-with-minimum-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2578-split-with-minimum-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2582-pass-the-pillow](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [2591-distribute-money-to-maximum-children](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2600-k-items-with-the-maximum-sum) |
