@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3945-digit-frequency-score](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3663-find-the-least-frequent-digit](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2748-number-of-beautiful-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Simulation
 |  |
 | ------- |
