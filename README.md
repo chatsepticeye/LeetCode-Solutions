@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1360-number-of-days-between-two-dates](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1486-xor-operation-in-an-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1360-number-of-days-between-two-dates](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1903-largest-odd-number-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
