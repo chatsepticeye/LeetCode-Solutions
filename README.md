@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0354-russian-doll-envelopes](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0464-can-i-win](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0464-can-i-win) |
 | [0788-rotated-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0398-random-pick-index](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0398-random-pick-index) |
+| [0464-can-i-win](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0464-can-i-win) |
 | [0523-continuous-subarray-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0775-global-and-local-inversions](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0775-global-and-local-inversions) |
 | [0788-rotated-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0788-rotated-digits) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0464-can-i-win](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0464-can-i-win) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0464-can-i-win](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0464-can-i-win) |
 ## Matrix
 |  |
 | ------- |
@@ -527,4 +531,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [2928-distribute-candies-among-children-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
