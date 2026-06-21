@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3099-harshad-number) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3280-convert-date-to-binary](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3280-convert-date-to-binary](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
