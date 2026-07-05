@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
