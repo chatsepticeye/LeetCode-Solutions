@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0963-minimum-area-rectangle-ii](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0963-minimum-area-rectangle-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1399-count-largest-group](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1399-count-largest-group](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
