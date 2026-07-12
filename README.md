@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [2928-distribute-candies-among-children-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
