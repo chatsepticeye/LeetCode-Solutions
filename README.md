@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3492-maximum-containers-on-a-ship](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
