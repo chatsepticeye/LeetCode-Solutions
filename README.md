@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0383-ransom-note](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1399-count-largest-group](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
