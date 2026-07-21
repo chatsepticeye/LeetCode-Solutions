@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [3024-type-of-triangle](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-maximum-containers-on-a-ship](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
