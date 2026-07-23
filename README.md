@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0383-ransom-note](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
