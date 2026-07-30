@@ -10,6 +10,6 @@ class Solution {
                 return t.charAt(i);
             }
         }
-        return 0; 
+        return ' '; 
     }
 }
