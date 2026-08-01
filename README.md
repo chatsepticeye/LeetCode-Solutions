@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1332-remove-palindromic-subsequences](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1332-remove-palindromic-subsequences](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1360-number-of-days-between-two-dates](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1446-consecutive-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
