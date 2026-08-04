@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1200-minimum-absolute-difference](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0881-boats-to-save-people](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [3024-type-of-triangle](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
