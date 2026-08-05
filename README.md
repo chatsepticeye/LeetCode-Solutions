@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3798-largest-even-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3798-largest-even-number) |
 | [3894-traffic-signal-color](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
