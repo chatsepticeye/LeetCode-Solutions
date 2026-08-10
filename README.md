@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1360-number-of-days-between-two-dates](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1360-number-of-days-between-two-dates) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1446-consecutive-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1556-thousand-separator) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
