@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-equal-score-substrings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3707-equal-score-substrings) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3798-largest-even-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3798-largest-even-number) |
+| [3813-vowel-consonant-score](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3360-stone-removal-game](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3813-vowel-consonant-score](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
