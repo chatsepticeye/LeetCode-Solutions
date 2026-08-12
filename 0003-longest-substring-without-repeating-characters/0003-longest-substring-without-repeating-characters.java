@@ -1,22 +1,27 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        if(s.length()==0) return 0;
-        int low=0;
-        HashMap<Character,Integer>map=new HashMap<>();
-        int res=Integer.MIN_VALUE;
-        for(int high=0;high<s.length();high++){
-            char a=s.charAt(high);
-            map.put(a,map.getOrDefault(a,0)+1);
+        int n = s.length();
+        int left = 0;
+        int maxLen = 0;
+        
+        // Array to store frequency of ASCII characters (0 to 127)
+        int[] freq = new int[128];
+        
+        for (int right = 0; right < n; right++) {
+            char rightChar = s.charAt(right);
+            freq[rightChar]++; // 1. Add right character to window
             
-            while(map.size()<high-low+1){
-                char left=s.charAt(low);
-                map.put(left,map.get(left)-1);
-                if(map.get(left)==0) map.remove(left);
-                low++;
+            // 2. Shrink window while there's a duplicate character
+            while (freq[rightChar] > 1) {
+                char leftChar = s.charAt(left);
+                freq[leftChar]--; // Remove left character from window
+                left++;           // Move left boundary forward
             }
-            res=Math.max(res,high-low+1);
-           
+            
+            // 3. Window s[left...right] is now valid (no duplicates)
+            maxLen = Math.max(maxLen, right - left + 1);
         }
-        return res;
+        
+        return maxLen;
     }
 }
