@@ -1,23 +1,22 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        if(s1.length()>s2.length()) return false;
-        int hash[]=new int[128];
-        for(char ch:s1.toCharArray()) hash[ch]++;
-        int count=s1.length();
-        int low=0;
-        for(int high=0;high<s2.length();high++){
-            char chigh=s2.charAt(high);
-            if(hash[chigh]>0) count --;
-            hash[chigh]--;
-            if(count==0) return true;
-            if(high>=s1.length()-1){
-                char clow=s2.charAt(low);
-                if(hash[clow]>=0) count++;
-                hash[clow]++;
-                low++;
-
-            }
-        }
-        return false;
+      int n1=s1.length();
+      int n2=s2.length();
+      int freq1[]=new int[26];
+      int freq2[]=new int[26];
+      if (n1 > n2) return false;
+      for(int i=0;i<n1;i++){
+        freq1[s1.charAt(i)-'a']++;
+        freq2[s2.charAt(i)-'a']++;
+      }
+      if(Arrays.equals(freq1,freq2)) return true;
+      for(int right=n1;right<n2;right++){
+        freq2[s2.charAt(right)-'a']++;
+        freq2[s2.charAt(right-n1) -'a']--;
+        if(Arrays.equals(freq1,freq2)) return true;
+      }
+      return false;
     }
+
+
 }
