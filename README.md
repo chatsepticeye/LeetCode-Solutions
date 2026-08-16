@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0354-russian-doll-envelopes](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0464-can-i-win](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0464-can-i-win) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Queue
 |  |
