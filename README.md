@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0775-global-and-local-inversions](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0775-global-and-local-inversions) |
+| [0819-most-common-word](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0833-find-and-replace-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0867-transpose-matrix](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0833-find-and-replace-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0904-fruit-into-baskets](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0963-minimum-area-rectangle-ii](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0963-minimum-area-rectangle-ii) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0640-solve-the-equation](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0640-solve-the-equation) |
 | [0771-jewels-and-stones](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0833-find-and-replace-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
