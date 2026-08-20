@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0354-russian-doll-envelopes](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0464-can-i-win](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0464-can-i-win) |
 | [0788-rotated-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0788-rotated-digits) |
