@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0833-find-and-replace-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0844-backspace-string-compare](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0844-backspace-string-compare](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
