@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0963-minimum-area-rectangle-ii](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0963-minimum-area-rectangle-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0464-can-i-win](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0464-can-i-win) |
 | [0788-rotated-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
@@ -670,12 +672,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
