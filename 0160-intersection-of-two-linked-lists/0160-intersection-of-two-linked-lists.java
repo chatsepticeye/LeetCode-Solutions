@@ -11,8 +11,8 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode h1, ListNode h2) {
-       int  s1=0;
-        int s2=0;
+       int s1=0;
+       int s2=0;
         ListNode t1=h1;
         ListNode t2=h2;
         while(t1!=null){
