@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1191-k-concatenation-maximum-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1200-minimum-absolute-difference](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1191-k-concatenation-maximum-sum](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/chatsepticeye/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 ## Sorting
